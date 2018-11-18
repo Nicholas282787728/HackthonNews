@@ -1,6 +1,6 @@
 # HackthonNews
 
-<img src=".\Introduction\hack the tech news world.pdf">
+<img src=".\Introduction\hack_the_tech_news_world.pdf">
 
 <img src=".\Introduction\1.png">
 <img src=".\Introduction\2.png">
